@@ -46,6 +46,6 @@ This project was developed as part of a midterm assignment for PROG32356.
 ### Installation & Running
 1. **Clone the repository:**
    ```bash
-git clone https://github.com/rathwaj1/AirlineDesk.git
+git clone git clone git@github.com:rathwaj21/AirlineDesk.git
 cd AirlineDesk
 
