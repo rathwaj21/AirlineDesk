@@ -1,4 +1,4 @@
-# Airline Management System - WPF
+# Airline Desk - WPF
 
 
 ## 📌 Overview
@@ -46,5 +46,5 @@ This project was developed as part of a midterm assignment for PROG32356.
 ### Installation & Running
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/AirlineManagementSystem-WPF.git
+   git clone https://github.com/rathwaj21/AirlineDesk-WPF.git
    cd AirlineManagementSystem-WPF
