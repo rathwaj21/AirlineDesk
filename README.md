@@ -46,5 +46,6 @@ This project was developed as part of a midterm assignment for PROG32356.
 ### Installation & Running
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rathwaj21/AirlineDesk-WPF.git
-   cd AirlineManagementSystem-WPF
+git clone https://github.com/jayrathwa/AirlineDesk.git
+cd AirlineDesk
+
